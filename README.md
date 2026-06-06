@@ -84,6 +84,7 @@ Ride Completion & Fare Calculation
        |
        v
 Update Wallet Earnings & System Statistics
+```
 
 ## ⚖️ Trade-offs & Analysis
 
